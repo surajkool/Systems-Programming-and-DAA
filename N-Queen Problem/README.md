@@ -10,7 +10,7 @@ The N Queen is the problem of placing N chess queens on an N×N chessboard so th
 
 # Solutions
 
-## Solution for 4 Queens
+## Brute Force Solution for 4 Queens
 
 Solution for 4 Queens is saved in `solution_4.c`
 
@@ -21,7 +21,7 @@ Solution for 4 Queens is saved in `solution_4.c`
 
 The correct number of Solutions for 4 Queens is 2.
 
-## Solution for 8 Queens
+## Brute Force Solution for 8 Queens
 
 Solution for 8 Queens is saved in `solution_8.c`
 
