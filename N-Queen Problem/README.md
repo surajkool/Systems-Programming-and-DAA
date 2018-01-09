@@ -19,6 +19,8 @@ Solution for 4 Queens is saved in `solution_4.c`
 1. Compile the code : `gcc solution_4.c`
 2. And run it : `./a.out`
 
+The correct number of Solutions for 4 Queens is 2.
+
 ## Solution for 8 Queens
 
 Solution for 8 Queens is saved in `solution_8.c`
@@ -27,3 +29,5 @@ Solution for 8 Queens is saved in `solution_8.c`
 
 1. Compile the code : `gcc solution_8.c`
 2. And run it : `./a.out`
+
+The correct number of Solutions for 8 Queens is 91.
