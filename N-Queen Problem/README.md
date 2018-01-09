@@ -6,7 +6,7 @@ The N Queen is the problem of placing N chess queens on an N×N chessboard so th
 
 ![alt-text](https://www.geeksforgeeks.org/wp-content/uploads/NQueen.png "N Queens Problem")
 
-<img src="http://78.media.tumblr.com/32f5b24d7f1f4ed341ce859454bf4d4f/tumblr_inline_mp8cw2LUxd1qz4rgp.gif" width="40" height="40" />
+<img src="http://78.media.tumblr.com/32f5b24d7f1f4ed341ce859454bf4d4f/tumblr_inline_mp8cw2LUxd1qz4rgp.gif" width="250" height="250" />
 
 # Solutions
 
