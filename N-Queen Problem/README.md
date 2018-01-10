@@ -8,6 +8,8 @@ The N Queen is the problem of placing N chess queens on an N×N chessboard so th
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Eight-queens-animation.gif" width="250" height="250" />
 
+The above animation shows N Queen Problem solved using Backtracking.
+
 # Brute Force Solutions
 
 Code implementing Brute Force Solutions are saved in the `Brute Force` Folder.
